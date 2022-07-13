@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Taza",
+    "price": 100,
+    "thumbnail": "https://producto1.com/123",
+    "id": 1
+  },
+  {
+    "title": "Plato",
+    "price": 200,
+    "thumbnail": "https://producto2.com/1234",
+    "id": 2
+  },
+  {
+    "title": "Cubiertos",
+    "price": 300,
+    "thumbnail": "https://producto3.com/12345",
+    "id": 3
+  }
+]
