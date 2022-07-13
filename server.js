@@ -12,7 +12,6 @@ class Contenedor {
         try {
             let data = await fs.promises.readFile(this.fileName, 'utf-8');
             const object = JSON.parse(data);
-            //console.log(obj); 
             return object;
         } catch (error) {
             throw new Error(error);
